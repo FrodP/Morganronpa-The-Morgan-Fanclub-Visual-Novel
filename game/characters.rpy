@@ -1,0 +1,17 @@
+#self explanitory, just a file with all the character variables in it
+define bry = Character("Bryson", image="bry")
+define ell = Character("Abyss", image="ell") 
+define liv = Character("Olivia")
+define kai = Character("Mikail")
+define greg = Character("Greg")
+define gerk = Character("Gregkail") #Might change this later.... will see
+define issc = Character("Issac")
+define rkie = Character("Rookie")
+define arsn = Character("Arson")
+define frd = Character("Frod")
+define kurt = Character("Kurt")
+define kat = Character("Kat Su Yeah")
+define morg = Character("Morgan")
+define gnv = Character("Goku and Vegeta")
+define p5 = Character("Entire Persona 5 Cast")
+define mono = Character("Monokuma")
